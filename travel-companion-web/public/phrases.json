@@ -1,0 +1,41 @@
+{
+  "basics": [
+    {
+      "Yes": "Hai",
+      "No": "iie",
+      "good-morning": "Ohayo",
+      "hello": "Konnichiwa",
+      "good-evening": "Konbanwa",
+      "goodbye": "Sayonara",
+      "please": "Onegai shimasu",
+      "Sorry": "Gomennasai",
+      "thank-you": "Arigatou gozaimasu",
+      "pardon-me": "Sumimasen",
+      "Do-you-speak-english": "Eigo o hanashimasu ka?",
+      "I-dont-understand": "Wakarimasen"
+    }
+  ],
+  "shopping": [
+    {
+      "Do-you-have-this?": "<something> arimasuka?",
+      "This-please": "<something> O kudasai",
+      "I-dont-need-it": "iranai",
+      "How-much-is-this": "kore wa ikura desuka?"
+    }
+  ],
+  "directions": [
+    {
+      "Up": "Ue,",
+      "Down": "Shita",
+      "Right": "Migi",
+      "Left": "Hidari"
+    }
+  ],
+  "where-Is-The": [
+    {
+      "Washroom": "Toire wa doko desuka",
+      "Subway": "Chikatetsu wa doko desu ka?",
+      "Convenience-Store": "Konbini wa doko desu ka?"
+    }
+  ]
+}
